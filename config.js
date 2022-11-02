@@ -67,7 +67,7 @@ global.socket = {
 
 global.useMulti = false
 
-global.media = 'https://telegra.ph/file/1a432751096d4d399a8c4.jpg'
+global.media = 'https://telegra.ph/file/7d10aa32a62f33efffa47.jpg'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
