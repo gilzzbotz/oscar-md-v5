@@ -4,8 +4,8 @@ let text = `
 
 ⫹⫺ Via Gopay : 6285730794089
 ⫹⫺ Via Dana : 6281241056195
-⫹⫺ Via Saweria :
-⫹⫺ https://saweria.co/gilzzbotz
+⫹⫺ Via Saweria : https://saweria.co/gilzzbotz
+
 
 `.trim()
   m.reply(text)
