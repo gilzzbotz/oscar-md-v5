@@ -36,7 +36,7 @@ let tags = {
   'maker': 'Maker',
 }
 const defaultMenu = {
-  before: `  *┄┄┄┅┅❑ 𝐉𝐚𝐫𝐨𝐭 𝐎𝐟𝐟𝐜 ❑┅┅┄┄┄*
+  before: `  *┄┄┄┅┅❑ Gilzz Ofc ❑┅┅┄┄┄*
 ┏─────────────────⬣
 ┆ 𝑯𝒂𝒊, %ucapan %name!👋
 ┗┬──────────────┈ ⳹
@@ -57,7 +57,7 @@ const defaultMenu = {
 ┆♠︎ *Limit* : Ⓛ 
 ┆♠︎ *Premium* : Ⓟ
 ┆♠︎ *Uptime:* : %uptime (%muptime)
-┆♠︎ *Penulis Ulang:* 𝐉𝐚𝐫𝐨𝐭 𝐎𝐟𝐟𝐜
+┆♠︎ *Penulis Ulang:* Gilzz Ofc
 ┗─────────────────⬣
 %readmore`.trimStart(),
   header: '╔═❖〔 %category 〕❖════╗\n┃',
@@ -215,7 +215,7 @@ const _0x38cd6a=_0x5d98;function _0x5d98(_0x25e3e9,_0x34161d){const _0x351343=_0
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: '【𝙔𝙤𝙪𝙩𝙪𝙗𝙚⛽】',
-                                    url: 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+                                    url: 'https://youtube.com/channel/UCPH9AdS6UQImcRv6IFtQ5lg'
                                 }
                             }, {
                                 quickReplyButton: {
