@@ -15,7 +15,7 @@ global.fotonya6 = 'https://telegra.ph/file/7d10aa32a62f33efffa47.jpg' //ini gant
 global.fotonya7 = 'https://telegra.ph/file/7d10aa32a62f33efffa47.jpg'
 global.instagram = 'https://instagram.com/rdtyzagilz'
 
-global.helper = ['6285850539404']
+global.helper = ['6285730794089']
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
