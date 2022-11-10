@@ -8,7 +8,7 @@ let PhoneNumber = require("awesome-phonenumber");
 let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
   let hao = ` 
  *Official Bot By @${"0".split("@")[0]}* 
- *Powered By @${"6285850539404".split("@")[0]}*`;
+ *Powered By @${"6285730794089".split("@")[0]}*`;
   let package = JSON.parse(
     await fs.promises
       .readFile(path.join(__dirname, "../package.json"))
@@ -133,10 +133,10 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ┏─────────────────⬣
 ┆         《 BOT INFO 》
 ┗┬──────────────┈ ⳹
-┏┆⚘ 𝙱𝚘𝚝 𝙽𝚊𝚖𝚎 : OSCAR-MD
+┏┆⚘ 𝙱𝚘𝚝 𝙽𝚊𝚖𝚎 : GILZZ - MD
 ┆┆⚘ 𝙲𝚛𝚎𝚊𝚝𝚘𝚛
 ┆┆⚘ 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙾𝚠𝚗𝚎𝚛
-┆┆http://wa.me/6285850539404
+┆┆http://wa.me/6285730794089
 ┆┆⚘ 𝚃𝚊𝚗𝚐𝚐𝚊𝚕: ${date}
 ┆┆⚘ 𝙹𝚊𝚖: ${time} WIB
 ┆┆⚘ 𝙼𝚘𝚍𝚎: 「 ${mode}  」
@@ -160,7 +160,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
   let ftt = `NOTE 📮 JIKA MENEMUKAN BUG/FITUR EROR SILAHKAN CHAT OWNER KAK JANGAN LUPA SUSCRIBE YOUTUBE BOT SEBAGAI BENTUK SUPORT BOT
 
  *Official Bot By @${"0".split("@")[0]}* 
- *Powered By @${"6285850539404".split("@")[0]}*`;
+ *Powered By @${"6285730794089".split("@")[0]}*`;
   const listMessage = {
     text: `𝙷𝚊𝚒 ${name} Jangan 𝚂𝚙𝚊𝚖 𝚈𝚊`.trim(),
     footer: "Jangan Lupa Suscribe YouTube Bot Yah Kak >//<",
@@ -172,12 +172,12 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
     media,
     tksk,
     ftt,
-    "𝚂𝚎𝚖𝚞𝚊 𝙿𝚎𝚛𝚒𝚗𝚝𝚊𝚑🎀",
+    "𝐀𝐥𝐥 𝐌𝐞𝐧𝐮🤖",
     ".? all",
-    "𝙾𝚠𝚗𝚎𝚛⛽",
-    ".owner",
-    "𝙳𝚘𝚗𝚊𝚜𝚒📮",
-    ".donasi",
+    "𝕲𝖗𝖔𝖚𝖕 𝕺𝖋𝖋𝖎𝖈𝖎𝖆𝖑🕊️",
+    ".gcbot",
+    "𝕾𝖊𝖜𝖆 𝕭𝖔𝖙💎",
+    ".sewabot",
     m
   );
   //await conn.send3ButtonLoc(m.chat, await conn.resize(pp, 300, 300), tksk, ftt, 'RENT', '.sewa', 'OWNER', '.owner', 'CREDITS', '.tqto', m)
