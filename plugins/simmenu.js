@@ -8,7 +8,7 @@ let PhoneNumber = require("awesome-phonenumber");
 let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
   let hao = ` 
  *Official Bot By @${"0".split("@")[0]}* 
- *Powered By @${"6285850539404".split("@")[0]}*`;
+ *Powered By @${"6285730794089".split("@")[0]}*`;
   let package = JSON.parse(
     await fs.promises
       .readFile(path.join(__dirname, "../package.json"))
@@ -114,12 +114,12 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
     key: {
       fromMe: false,
       participant: `0@s.whatsapp.net`,
-      ...(m.chat ? { remoteJid: "6285850539404-1625305606@g.us" } : {}),
+      ...(m.chat ? { remoteJid: "6285730794089-1625305606@g.us" } : {}),
     },
     message: {
       extendedTextMessage: {
-        text: `𝙾𝚜𝚌𝚊𝚛-𝙼𝚞𝚕𝚝𝚒𝙳𝚎𝚟𝚒𝚌𝚎 Whatsapp ʙᴏᴛ`,
-        title: `𝙾𝚜𝚌𝚊𝚛-𝙼𝚞𝚕𝚝𝚒𝙳𝚎𝚟𝚒𝚌𝚎 Whatsapp ʙᴏᴛ`,
+        text: `ɢɪʟᴢᴢ - ʙᴏᴛᴢ Whatsapp ʙᴏᴛ`,
+        title: `ɢɪʟᴢᴢ - ʙᴏᴛᴢ Whatsapp ʙᴏᴛ`,
         jpegThumbnail: await (
           await fetch("https://telegra.ph/file/6f11ac2de8d57a1c831c4.jpg")
         ).buffer(),
@@ -133,10 +133,10 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ┏─────────────────⬣
 ┆         《 BOT INFO 》
 ┗┬──────────────┈ ⳹
-┏┆⚘ 𝙱𝚘𝚝 𝙽𝚊𝚖𝚎 : OSCAR-MD
+┏┆⚘ 𝙱𝚘𝚝 𝙽𝚊𝚖𝚎 : ɢɪʟᴢᴢ - ʙᴏᴛᴢ
 ┆┆⚘ 𝙲𝚛𝚎𝚊𝚝𝚘𝚛
 ┆┆⚘ 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙾𝚠𝚗𝚎𝚛
-┆┆http://wa.me/6285850539404
+┆┆http://wa.me/6285730794089
 ┆┆⚘ 𝚃𝚊𝚗𝚐𝚐𝚊𝚕: ${date}
 ┆┆⚘ 𝙹𝚊𝚖: ${time} WIB
 ┆┆⚘ 𝙼𝚘𝚍𝚎: 「 ${mode}  」
@@ -172,12 +172,12 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
     media,
     tksk,
     ftt,
-    "𝚂𝚎𝚖𝚞𝚊 𝙿𝚎𝚛𝚒𝚗𝚝𝚊𝚑🎀",
+    "𝕬𝖑𝖑 𝕸𝖊𝖓𝖚🤖",
     ".? all",
-    "𝙾𝚠𝚗𝚎𝚛⛽",
-    ".owner",
-    "𝙳𝚘𝚗𝚊𝚜𝚒📮",
-    ".donasi",
+    "𝕲𝖗𝖔𝖚𝖕 𝕺𝖋𝖋𝖎𝖈𝖎𝖆𝖑🕊️",
+    ".gcbot",
+    "𝕾𝖊𝖜𝖆 𝕭𝖔𝖙💎",
+    ".sewabot",
     m
   );
   //await conn.send3ButtonLoc(m.chat, await conn.resize(pp, 300, 300), tksk, ftt, 'RENT', '.sewa', 'OWNER', '.owner', 'CREDITS', '.tqto', m)
